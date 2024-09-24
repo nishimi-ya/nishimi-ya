@@ -16,7 +16,6 @@ Personal dotfiles for hyprland look
 ### [Tilde](https://github.com/xangelkawaiix/tilde)
 A minimal browser startpage 
 
-A minimal browser homepage 
 ### [Shinosawa Hiro](https://github.com/xangelkawaiix/hiro-shinosawa)
 A tribute page dedicated for Shinosawa Hiro from Idolm@ster
 
