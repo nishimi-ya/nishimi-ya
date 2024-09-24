@@ -33,10 +33,13 @@ A tribute page dedicated for Shinosawa Hiro from Idolm@ster
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue.js&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📫 Get in Touch
 
-- **Email**: [contact@nishimiya.my.idl](mailto:contact@nishimiya.my.id)
+- **Email**: [contact@nishimiya.my.id](mailto:contact@nishimiya.my.id)
 - **LinkedIn**: [Danke Hidayat](https://www.linkedin.com/in/dankehidayat)
 
 ## 🌱 Currently Learning
