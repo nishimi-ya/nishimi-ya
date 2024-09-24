@@ -1,5 +1,9 @@
 # 🌸 Nishimiya's GitHub Profile 🌸
 
+## 🌟 Introduction
+
+Hello! Welcome to my GitHub profile. Here, you can find a variety of projects, contributions, and coding work. Feel free to look around and share your thoughts.
+
 ## 📊 GitHub Stats
 
 [![Nishimiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xangelkawaiix&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
@@ -10,14 +14,17 @@
 
 ## 🌟 Featured Projects
 
-### [Hyprland dotfiles](https://github.com/xangelkawaiix/project-name-1)
-Personal dotfiles for hyprland look
+### [Hyprland dotfiles](https://github.com/xangelkawaiix/hyprland-dotfiles)
+Personal configuration files for a stylish Hyprland desktop.
+
+### [Hyprland bootstrap](https://github.com/xangelkawaiix/hyprland-bootstrap)
+Efficient Arch Linux Hyprland Bootstrap Script: Automates setup for a seamless, optimized desktop experience.
 
 ### [Tilde](https://github.com/xangelkawaiix/tilde)
-A minimal browser startpage 
+A minimalist browser startpage for a clean and focused browsing experience.
 
 ### [Shinosawa Hiro](https://github.com/xangelkawaiix/hiro-shinosawa)
-A tribute page dedicated for Shinosawa Hiro from Idolm@ster
+A tribute page dedicated for Shinosawa Hiro from Idolm@ster.
 
 ## 🛠️ Technologies & Tools
 
