@@ -46,7 +46,6 @@ A tribute page dedicated for Shinosawa Hiro from Idolm@ster.
 ## 📫 Get in Touch
 
 - **Email**: [contact@nishimiya.my.id](mailto:contact@nishimiya.my.id)
-- **LinkedIn**: [Danke Hidayat](https://www.linkedin.com/in/dankehidayat)
 
 ## 🌱 Currently Learning
 
