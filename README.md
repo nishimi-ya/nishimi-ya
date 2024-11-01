@@ -1,5 +1,3 @@
-# Nishimiya's
-
 ## 🌟 Introduction
 
 Hello! Welcome to my GitHub profile. Here, you can find a variety of projects, contributions, and coding work. Feel free to look around and share your thoughts.
