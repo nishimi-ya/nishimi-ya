@@ -1,4 +1,4 @@
-# 🌸 Nishimiya's GitHub Profile 🌸
+# Nishimiya's
 
 ## 🌟 Introduction
 
@@ -14,16 +14,16 @@ Hello! Welcome to my GitHub profile. Here, you can find a variety of projects, c
 
 ## 🌟 Featured Projects
 
-### [Hyprland dotfiles](https://github.com/xangelkawaiix/hyprland-dotfiles)
+### [Hyprland dotfiles](https://github.com/nishimi-ya/hyprland-dotfiles)
 Personal configuration files for a stylish Hyprland desktop.
 
-### [Hyprland bootstrap](https://github.com/xangelkawaiix/hyprland-bootstrap)
+### [Hyprland bootstrap](https://github.com/nishimi-ya/hyprland-bootstrap)
 Efficient Arch Linux Hyprland Bootstrap Script: Automates setup for a seamless, optimized desktop experience.
 
-### [Tilde](https://github.com/xangelkawaiix/tilde)
+### [Tilde](https://github.com/nishimi-ya/tilde)
 A minimalist browser startpage for a clean and focused browsing experience.
 
-### [Shinosawa Hiro](https://github.com/xangelkawaiix/hiro-shinosawa)
+### [Shinosawa Hiro](https://github.com/nishimi-ya/hiro-shinosawa)
 A tribute page dedicated for Shinosawa Hiro from Idolm@ster.
 
 ## 🛠️ Technologies & Tools
@@ -61,4 +61,4 @@ If you like my work, consider supporting me on Trakteer.id!
 
 ---
 
-⭐️ From [Nishimiya](https://github.com/xangelkawaiix)
+⭐️ From [Nishimiya](https://github.com/nishimi-ya)
