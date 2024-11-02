@@ -4,11 +4,11 @@ Hello! Welcome to my GitHub profile. Here, you can find a variety of projects, c
 
 ## 📊 GitHub Stats
 
-[![Nishimiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=xangelkawaiix&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
+[![Nishimiya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nishimi-ya&show_icons=true&theme=catppuccin_mocha)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🚀 Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xangelkawaiix&layout=compact&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nishimi-ya&layout=compact&theme=catppuccin_mocha)
 
 ## 🌟 Featured Projects
 
