@@ -28,8 +28,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishimi-ya&show_icons=true&theme=tokyonight&locale=en" alt="nishimi-ya" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishimi-ya&theme=dark" alt="nishimi-ya" /></p>
-
 <h3>Support Me</h3>
 
 <p>If you like my work, consider supporting me on Trakteer.id!</p>
